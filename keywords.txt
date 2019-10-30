@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For EasyTimer
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+EasyTimer	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+add		KEYWORD2
+remove	KEYWORD2
+start	KEYWORD2
+stop	KEYWORD2
+loop	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
