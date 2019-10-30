@@ -14,9 +14,9 @@ EasyTimer	KEYWORD1
 
 add     KEYWORD2
 remove	KEYWORD2
-start	  KEYWORD2
-stop	  KEYWORD2
-loop	  KEYWORD2
+start	 KEYWORD2
+stop	 KEYWORD2
+loop	 KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
